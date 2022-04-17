@@ -1,15 +1,15 @@
-## 服务日常
+# 服务日常
 
 记录服务的日常状况。
 
 - [可用情况](https://akass.instatus.com/)
 此项用来记录服务SLA相关，比如"某某服务于猴年马月零时卅分宕机，恢复于……"。
 
-- [维护记录](./records/index.md)
+- 维护记录
 此项用来记录我对服务将要做啥、正在做啥、已经做啥。
 
-- [用量概览](./usage/index.md)
+- 用量概览
 此项用来记录最高精确到 `getRandom('Week', 'Month')` 的用量概览。
 
-- [其他情况](./others/index.md)
+- [其他情况](./others.md)
 此项用来记录不常见的情况，如 `Under Attack` 之类的。

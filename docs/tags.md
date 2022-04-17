@@ -1,5 +1,5 @@
-# Tags
+# 标签
 
-Following is a list of relevant tags:
+本文档中所有使用的Tag如下:
 
 [TAGS]
