@@ -4,4 +4,3 @@
 
 - [网易云音乐解析](./neteasemusic.md)
 - [一言](./hitokoto.md)
-- [GitHub图表](./githubuserstate.md)

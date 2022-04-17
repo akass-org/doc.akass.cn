@@ -25,7 +25,7 @@
 ---
 
 ## 服务日常
-- [可用情况](./logs/info/index.md)
+- [可用情况](https://akass.instatus.com)
 - [维护记录](./logs/records/index.md)
 - [用量概览](./logs/usage/index.md)
 - [其他情况](./logs/others/index.md)

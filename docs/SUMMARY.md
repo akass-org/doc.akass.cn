@@ -18,7 +18,7 @@
 
 ## 服务日常
 - [服务日常](./logs/index.md)
-    - [可用情况](./logs/info/index.md)
+    - [可用情况](https://akass.instatus.com)
     - [维护记录](./logs/records/index.md)
         - [图床迁移记录](./logs/records/imghost-v1tov2.md)
         - [域名备案通知](./logs/records/domain-icp.md)
