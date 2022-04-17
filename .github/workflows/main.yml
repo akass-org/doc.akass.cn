@@ -14,7 +14,15 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material 
 
-      - name: tree
-        run: tree
+      - name: Build docs
+        run: mkdocs build
 
-      - run: mkdocs gh-deploy --force
+      - name: Set custom domain
+        run: echo 'doc.akass.cn' > ./site/CNAME
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
