@@ -14,5 +14,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: 切换到白天
+  features:
+    - navigation.instant
 extra_css:
   - custom/main.css
