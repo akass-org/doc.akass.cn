@@ -35,3 +35,13 @@ copyright: Copyright &copy; 2021 - 2022 AKASS Organization
 repo_url: https://github.com/akass-org/doc.akass.cn/
 repo_name: akass-org/doc.akass.cn
 edit_uri: edit/master/docs/
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
