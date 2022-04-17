@@ -1,5 +1,6 @@
-site_name: My Docs
+site_name: Also Known As Splendid Services
 theme:
+  logo: custom/logo.png
   name: material
   language: zh
   palette:
