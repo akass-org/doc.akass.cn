@@ -16,6 +16,7 @@ theme:
         name: 切换到白天
   features:
     - navigation.instant
+    - navigation.tracking
     - search.suggest
     - search.highlight
     - search.share
