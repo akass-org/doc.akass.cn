@@ -22,7 +22,13 @@ theme:
     - header.autohide
 extra_css:
   - custom/main.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/akass-org
+      name: Official Repo.
 plugins:
   - search
   - tags:
       tags_file: tags.md
+copyright: Copyright &copy; 2021 - 2022 AKASS Organization
