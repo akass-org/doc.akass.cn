@@ -22,5 +22,6 @@ theme:
 extra_css:
   - custom/main.css
 plugins:
+  - search
   - tags:
       tags_file: tags.md
