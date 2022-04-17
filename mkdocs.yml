@@ -17,5 +17,7 @@ theme:
   features:
     - navigation.instant
     - search.suggest
+    - search.highlight
+    - search.share
 extra_css:
   - custom/main.css
