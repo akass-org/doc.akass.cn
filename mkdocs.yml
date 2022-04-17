@@ -32,3 +32,6 @@ plugins:
   - tags:
       tags_file: tags.md
 copyright: Copyright &copy; 2021 - 2022 AKASS Organization
+repo_url: https://github.com/akass-org/doc.akass.cn/
+repo_name: akass-org/doc.akass.cn
+edit_uri: edit/master/docs/
