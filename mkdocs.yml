@@ -26,7 +26,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/akass-org
-      name: Official Repo.
+      name: Official.
 plugins:
   - search
   - tags:
