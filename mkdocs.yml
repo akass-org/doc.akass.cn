@@ -28,6 +28,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/akass-org
       name: Official.
+    - icon: fontawesome/solid/envelope
+      link: mailto:admin@bep.ink
+      name: 联系晓白
 plugins:
   - search
   - tags:
