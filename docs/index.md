@@ -36,6 +36,12 @@
 
 ---
 
+## 其他
+- [赞助（爱发电）](https://afdian.net/@akatsukiro)
+- [联系晓白（邮箱）](mailto:admin@bep.ink)
+
+---
+
 ## 鸣谢
 - [Lsky Pro](https://www.lsky.pro)
 - [CDNJS](https://cdnjs.com)
