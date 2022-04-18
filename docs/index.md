@@ -37,6 +37,7 @@
 ---
 
 ## 鸣谢
+- [Lsky Pro](https://www.lsky.pro)
 - [CDNJS](https://cdnjs.com)
 - [npm](https://npmjs.com)
 - [unpkg](https://unpkg.com)
