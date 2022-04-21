@@ -25,7 +25,7 @@ https://gh.akass.cn/{username}/{reponame}/{tag}/{path}
 
 例如：
 ```
-https://gh.akass.cn/lsky-org/lsky-pro/2.0/public/favicon.ico
+https://gh.akass.cn/akass-org/pingTarget/0.0.1/README.md
 ```
 
 ## 缓存
