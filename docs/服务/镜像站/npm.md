@@ -12,7 +12,11 @@
 
 例如：
 ```
-栗子
+https://unpkg.com/react@16.7.0/umd/react.production.min.js
+```
+换为
+```
+https://npm.akass.cn/react@16.7.0/umd/react.production.min.js
 ```
 
 ## 缓存
