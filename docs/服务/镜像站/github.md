@@ -28,6 +28,17 @@ https://gh.akass.cn/{username}/{reponame}/{tag}/{path}
 https://gh.akass.cn/akass-org/pingTarget/0.0.1/README.md
 ```
 
+支持图片处理。在链接末尾加上 `!webp` 即可。
+
+原图：
+```
+https://gh.akass.cn/akass-org/pingTarget/0.0.2/road-1072821.jpg
+```
+webp处理：
+```
+https://gh.akass.cn/akass-org/pingTarget/0.0.2/road-1072821.jpg!webp
+```
+
 ## 缓存
 
 CDN缓存时间 **90天** 。有强制缓存。
