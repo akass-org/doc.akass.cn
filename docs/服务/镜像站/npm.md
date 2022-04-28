@@ -8,11 +8,12 @@
 
 ## 使用方式
 
-使用加速域名 `npm.akass.cn` 替换 `unpkg.com` 即可。
+使用加速域名 `npm.akass.cn` 替换 `unpkg.com` 或 `cdn.jsdelivr.net/npm` 即可。
 
 例如：
 ```
 https://unpkg.com/react@16.7.0/umd/react.production.min.js
+# 或 https://cdn.jsdelivr.net/npm/react@16.7.0/umd/react.production.min.js
 ```
 换为
 ```
