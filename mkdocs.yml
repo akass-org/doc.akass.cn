@@ -2,6 +2,7 @@ site_name: Also Known As Splendid Services
 theme:
   logo: custom/logo.png
   name: material
+  custom_dir: overrides
   language: zh
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -40,6 +41,7 @@ repo_url: https://github.com/akass-org/doc.akass.cn/
 repo_name: akass-org/doc.akass.cn
 edit_uri: edit/master/docs/
 markdown_extensions:
+  - meta
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
