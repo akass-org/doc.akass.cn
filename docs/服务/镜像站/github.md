@@ -53,3 +53,24 @@ CDN缓存时间 **90天** 。有强制缓存。
 所以还请使用 `{tag}` 来访问特定版本文件。
 
 .html | .html | .shtml 此类文件MIME类型返回为 'Text/plain' 即此类文件不会被浏览器渲染。
+
+## 申请白名单
+
+### 要求
+前端/web项目，有release/tag，在持续更新，有一定stars。
+
+### 不会加速
+翻墙软件规则仓库，图床仓库。
+
+### 例外
+前文件托管服务转移到GitHub的部分。
+
+### 申请格式
+
+```yml
+你的邮箱: Your@email.domain
+项目地址: https://github.com/Account/Repo
+项目描述: 一个好用的js库
+```
+
+在下方留言即可。
