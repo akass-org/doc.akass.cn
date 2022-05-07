@@ -1,8 +1,8 @@
 # 晓白云图床
 
-图床程序： [Lsky Pro v1](https://github.com/lsky-org/lsky-pro)
+图床程序： [Lsky Pro v2](https://github.com/lsky-org/lsky-pro)
 
-图床地址：[晓白云☁️图床](https://img.chs.pub)
+图床地址：[晓白云图床](https://img.akass.cn)
 
 ## 服务条款
 
