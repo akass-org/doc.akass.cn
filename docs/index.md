@@ -20,7 +20,6 @@
 - [GitHub文件镜像](./服务/镜像站/github.md)
 
 ## API
-- [网易云音乐解析](./服务/api/neteasemusic.md)
 - [一言](./服务/api/hitokoto.md)
 
 ---
