@@ -2,25 +2,45 @@
 
 ## 图片压缩
 
-晓白云图床Pro套餐支持图片压缩。在图片链接后加上 `!wp{level}` 即可。
+晓白云图床Pro套餐支持图片压缩。
+
+### WebP 压缩
+
+在图片链接后加上 `!wp{level}` 即可。
 
 例如，这是一张约10M的测试图片：
 ```
 https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png
 ``` 
 
-webp压缩后仅剩260多KB。
+WebP压缩后仅剩260多KB。
 
 ```
 https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!wp60
 ```
 
-### 所有WebP压缩等级
+#### 所有WebP压缩等级
 
 - `wp60` : 60% 质量
 - `wp80` : 80% 质量
 - `wp90` : 90% 质量
 - `wp` : 100% 质量
+
+### AVIF 压缩
+
+在图片链接后加上 `!avif` 即可。
+
+例如，这是一张约10M的测试图片：
+```
+https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png
+``` 
+
+AVIF压缩后仅剩210多KB。
+
+```
+https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
+```
+
 
 ## 对接ShareX
 
