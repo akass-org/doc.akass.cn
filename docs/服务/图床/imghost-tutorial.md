@@ -99,6 +99,7 @@ https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
 ### 方法一： `自定义Web图床` 插件
 
 按如下方式填写即可：
+
 - API地址：https://your.domain/api/v1/upload
 - POST 参数名：file
 - JSON路径：data.links.url
@@ -108,9 +109,11 @@ https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
 ### 方法二：`lankong` 插件
 
 按如下方式填写：
+
 - 打开 `Lsky Pro Version`
 - Server： 填写你的图床地址即可，不需要 `/api/v1/upload` ，**不要以 `/` 结尾**
 - Auth Token： `Bearer Your_token`
+- Sync Delete： 打开即可通过PicGo删除图片
 - 其他选填
 
 
