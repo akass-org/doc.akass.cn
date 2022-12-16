@@ -27,16 +27,6 @@ https://gh.akass.cn/{username}/{reponame}/{tag}/{path}
 https://gh.akass.cn/akass-org/pingTarget/0.0.1/README.md
 ```
 
-支持图片处理。在链接末尾加上 `!webp` 即可。
-
-原图：
-```
-https://gh.akass.cn/akass-org/pingTarget/0.0.2/road-1072821.jpg
-```
-webp处理：
-```
-https://gh.akass.cn/akass-org/pingTarget/0.0.2/road-1072821.jpg!webp
-```
 
 ## 缓存
 
@@ -52,17 +42,18 @@ CDN缓存时间 **365天** 。有强制缓存。
 
 所以还请使用 `{tag}` 来访问特定版本文件。
 
-.html | .html | .shtml 此类文件MIME类型返回为 'Text/plain' 即此类文件不会被浏览器渲染。
-
 ## 申请白名单
 
 ### 要求
+
 前端/web项目，有release/tag，在持续更新，有一定stars。
 
 ### 不会加速
+
 翻墙软件规则仓库，图床仓库。
 
 ### 例外
+
 前文件托管服务转移到GitHub的部分。
 
 ### 申请格式
