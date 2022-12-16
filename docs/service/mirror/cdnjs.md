@@ -19,7 +19,7 @@ https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.33/vue.cjs.min.js
 ```
 替换为
 ```
-https://sf.akass.cn/vue/3.2.31/vue.cjs.min.js
+https://sf.akass.cn/vue/3.2.33/vue.cjs.min.js
 ```
 
 ## 缓存

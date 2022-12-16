@@ -11,16 +11,16 @@
 [AKASS Terms of use](terms-of-use.md)
 
 ## 图床
-- [图床附加服务条款](./服务/图床/imghost-rules.md)
-- [晓白云图床](./服务/图床/imghost.md)
-- [晓白云图床使用教程](./服务/图床/imghost-tutorial.md)
+- [图床附加服务条款](./service/imagehost/imghost-rules.md)
+- [晓白云图床](./service/imagehost/imghost.md)
+- [晓白云图床使用教程](./service/imagehost/imghost-tutorial.md)
 ## 镜像站
-- [CDNJS文件镜像](./服务/镜像站/cdnjs.md)
-- [npm文件镜像](./服务/镜像站/npm.md)
-- [GitHub文件镜像](./服务/镜像站/github.md)
+- [CDNJS文件镜像](./service/mirror/cdnjs.md)
+- [npm文件镜像](./service/mirror/npm.md)
+- [GitHub文件镜像](./service/mirror/github.md)
 
 ## API
-- [一言](./服务/api/hitokoto.md)
+- [一言](./service/api/hitokoto.md)
 
 ---
 
