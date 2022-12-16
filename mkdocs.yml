@@ -59,3 +59,20 @@ markdown_extensions:
 
 extra_javascript:
   - custom/ana.js
+
+nav:
+- 主页: index.md
+- 使用条款: 
+  - terms-of-use.md
+  - service/imagehost/imghost-rules.md
+
+- 图床:
+  - service/imagehost/imghost.md
+  - service/imagehost/imghost-tutorial.md
+
+- 镜像站:
+  - service/mirror/cdnjs.md
+  - service/mirror/npm.md
+  - service/mirror/github.md
+
+- 标签: tags.md
