@@ -57,8 +57,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
-extra_javascript:
-  - custom/ana.js
+# extra_javascript:
 
 nav:
 - 主页: index.md
@@ -74,5 +73,6 @@ nav:
   - service/mirror/cdnjs.md
   - service/mirror/npm.md
   - service/mirror/github.md
+  - service/mirror/fonts.md
 
 - 标签: tags.md
