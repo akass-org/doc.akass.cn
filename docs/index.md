@@ -18,6 +18,7 @@
 - [CDNJS文件镜像](./service/mirror/cdnjs.md)
 - [npm文件镜像](./service/mirror/npm.md)
 - [GitHub文件镜像](./service/mirror/github.md)
+- [字体加速](./service/mirror/fonts.md)
 
 ## API
 - [一言](./service/api/hitokoto.md)
