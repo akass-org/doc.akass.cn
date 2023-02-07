@@ -1,5 +1,15 @@
 # 晓白云图床使用教程
 
+## 新版图床获取 Token 方法
+
+企业版用户可通过 GUI 方式获取 Token 。
+
+打开 [Token](https://img.akass.cn/user/tokens) 页面，点击 `创建 Token` 以创建 Token。
+
+输入 Token 的名称，例如该 Token 的用途，或使用的网站等，勾选该 Token 对应的权限，点击 `保存` ，复制出现的Token即可。
+
+一定要保管好该 Token ，一旦丢失只能撤销重铸。
+
 ## 图片压缩
 
 晓白云图床Pro套餐支持图片压缩。
