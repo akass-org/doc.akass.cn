@@ -8,10 +8,10 @@
 > 除图床外，其他服务均只向好友提供服务。实在是没钱撑起这些东西。
 
 ## 使用条款
-[AKASS Terms of use](terms-of-use.md)
+[AKASS Terms of use](./agreement/terms-of-use.md)
 
 ## 图床
-- [图床附加服务条款](./service/imagehost/imghost-rules.md)
+- [图床附加服务条款](./agreement/imghost-rules.md)
 - [晓白云图床](./service/imagehost/imghost.md)
 - [晓白云图床使用教程](./service/imagehost/imghost-tutorial.md)
 ## 镜像站

@@ -62,8 +62,8 @@ markdown_extensions:
 nav:
 - 主页: index.md
 - 使用条款: 
-  - terms-of-use.md
-  - service/imagehost/imghost-rules.md
+  - agreement/terms-of-use.md
+  - agreement/imghost-rules.md
 
 - 图床:
   - service/imagehost/imghost.md
