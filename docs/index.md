@@ -10,6 +10,9 @@
 ## 使用条款
 [AKASS Terms of use](./agreement/terms-of-use.md)
 
+## 隐私政策
+[Privacy](./agreement/privacy.md)
+
 ## 图床
 - [图床附加服务条款](./agreement/imghost-rules.md)
 - [晓白云图床](./service/imagehost/imghost.md)
