@@ -75,9 +75,9 @@ https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
     "Name": "Lsky Pro v2",
     "DestinationType": "ImageUploader",
     "RequestMethod": "POST",
-    "RequestURL": "https://lsky.pro/api/v1/upload",
+    "RequestURL": "https://img.akass.cn/api/v1/upload",
     "Headers": {
-        "Authorization": "Bearer Your_token"
+        "Authorization": "Bearer <Your_token>"
     },
     "Body": "MultipartFormData",
     "FileFormName": "file",
@@ -91,12 +91,12 @@ https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
         "Name": "Lsky Pro v2",
         "DestinationType": "ImageUploader",
         "RequestMethod": "POST",
-        "RequestURL": "https://lsky.pro/api/v1/upload",
+        "RequestURL": "https://img.akass.cn/api/v1/upload",
         "Parameters": {
         "strategy_id": "2（对应的存储策略id）"
         },
         "Headers": {
-        "Authorization": "Bearer Your_Token"
+        "Authorization": "Bearer <Your_Token>"
         },
         "Body": "MultipartFormData",
         "FileFormName": "file",
@@ -110,7 +110,7 @@ https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
 
 按如下方式填写即可：
 
-- API地址：https://your.domain/api/v1/upload
+- API地址：https://img.akass.cn/api/v1/upload
 - POST 参数名：file
 - JSON路径：data.links.url
 - 自定义请求头：{"Authorization": "Bearer your_token"}
@@ -121,24 +121,24 @@ https://i-cdn.akass.cn/2022/05/6275d9a35a6e6.png!avif
 按如下方式填写：
 
 - 打开 `Lsky Pro Version`
-- Server： 填写你的图床地址即可，不需要 `/api/v1/upload` ，**不要以 `/` 结尾**
-- Auth Token： `Bearer Your_token`
+- Server： 填写 `https://img.akass.cn` 即可，不需要 `/api/v1/upload` ，**不要以 `/` 结尾**
+- Auth Token： `Bearer <Your_token>`
 - Sync Delete： 打开即可通过PicGo删除图片
 - 其他选填
 
 
-## 获取Token
+## 其他方式获取Token
 
 ### CURL
 
 - 简洁一点：
 
     ```
-    curl -X POST -F "email=your_email@address" -F "password=your_passwd" https://your.domain/api/v1/tokens
+    curl -X POST -F "email=your_email@address" -F "password=your_passwd" https://img.akass.cn/api/v1/tokens
     ```
 - 展开：
     ```
-    curl --location --request POST 'https://your.domain/api/v1/tokens' \
+    curl --location --request POST 'https://img.akass.cn/api/v1/tokens' \
     --form 'email="your_email@address"' \
     --form 'password="your_passwd"'
     ```
@@ -150,7 +150,7 @@ wget --no-check-certificate --quiet \
   --timeout=0 \
   --header '' \
   --body-data 'email=your email address&password=password' \
-   'https://pic.iqy.ink/api/v1/tokens'
+   'https://img.akass.cn/api/v1/tokens'
 ```
 
 ### Postman/ApiPost/ApiFox
