@@ -1,14 +1,14 @@
 # 欢迎
 
-这里是 AKASS.CN 的主页。以下是提供的服务。
+这里是 晓白云文档 的主页。以下是提供的服务。
 
 > 注意：所有的服务均面向中国大陆，境外访问并不是我们的首要考虑。
-> 如果您的用户以境外用户为主，还是推荐您使用原服务而非 `AKASS`。
+> 如果您的用户以境外用户为主，还是推荐您使用原服务而非 `晓白云`。
 
 > 除图床外，其他服务均只向好友提供服务。实在是没钱撑起这些东西。
 
 ## 使用条款
-[AKASS Terms of use](./agreement/terms-of-use.md)
+[Terms of use](./agreement/terms-of-use.md)
 
 ## 隐私政策
 [Privacy](./agreement/privacy.md)
@@ -17,6 +17,7 @@
 - [图床附加服务条款](./agreement/imghost-rules.md)
 - [晓白云图床](./service/imagehost/imghost.md)
 - [晓白云图床使用教程](./service/imagehost/imghost-tutorial.md)
+- [晓白云图床服务等级协议](./agreement/imghost-sla.md)
 ## 镜像站
 - [CDNJS文件镜像](./service/mirror/cdnjs.md)
 - [npm文件镜像](./service/mirror/npm.md)
@@ -24,7 +25,6 @@
 - [字体加速](./service/mirror/fonts.md)
 
 ## API
-- [一言](./service/api/hitokoto.md)
 
 ---
 
