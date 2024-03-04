@@ -69,6 +69,7 @@ nav:
 - 图床:
   - service/imagehost/imghost.md
   - service/imagehost/imghost-tutorial.md
+  - agreement/imghost-sla.md
 
 - 镜像站:
   - service/mirror/cdnjs.md
